@@ -4,7 +4,7 @@ subGroup: APIs
 title: {{ page.subGroup }}
 ---
 
-# APIs
+# {{ page.subGroup }}
 
 - Announcements - [{{ page.subGroup }} Google Group](https://groups.google.com/a/bswg.org/g/apis)
 - Working discussion - [{{ page.subGroup }} Discord Channel](https://discord.gg/PZMf6Sthw2)
