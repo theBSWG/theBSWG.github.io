@@ -1,4 +1,10 @@
+// overrides - https://github.com/pages-themes/slate/blob/master/_sass/jekyll-theme-slate.scss
+
 ---
 ---
 
 @import "{{ site.theme }}";
+
+#header_wrap .inner {
+  padding: 30px 10px 30px 10px;
+}
