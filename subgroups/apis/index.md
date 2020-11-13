@@ -1,3 +1,8 @@
+---
+layout: default
+title: APIs
+---
+
 # APIs
 
 - Announcements - [https://groups.google.com/a/bswg.org/g/apis] (https://groups.google.com/a/bswg.org/g/apis)

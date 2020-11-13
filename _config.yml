@@ -2,3 +2,4 @@ title: BSWG
 description: Bridge Standards Working Group
 baseurl: /
 theme: jekyll-theme-slate
+markdown: kramdown
