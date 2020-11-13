@@ -28,9 +28,9 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <!-- {% for c in site.classes %}  -->
-        {{ class | capitalize }}: <a href="/subgroups/"{{ {{class}} [0] }}></a> 
-          <!-- {% for sg in site.{{ c }} offset:1 %}  -->
+        <!-- {% for area in site.areas %}  -->
+        {{ area | capitalize }}: <a href="/subgroups/"{{ {{area}} [0] }}></a> 
+          <!-- {% for sg in site.{{ area }} offset:1 %}  -->
             | <a href=/subgroups/{{ sg }}>{{ sg }}</a>
           <!-- {% endfor %}  -->
         <br>
