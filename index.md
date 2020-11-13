@@ -5,7 +5,7 @@ Forming. Invitations are being sent out to prospective participants.
 
 ___
 
-{{< columns >}} <!-- begin columns block -->
+
 ### Primary Goal
 To create and maintain an independent, active, non-profit organisation dedicated to ensuring their are technical standards in the world of Bridge, in particular online systems.
 
@@ -19,7 +19,6 @@ The growth of digital Bridge software and services, serving a surge of interest,
 - [IEEE](https://standards.ieee.org/develop/index.html) • [IETF](https://tools.ietf.org/html/rfc2026) • [OGC](https://www.ogc.org/roadmap)
 - [What are standards and why they are important](https://beyondstandards.ieee.org/general-news/what-are-standards-why-are-they-important)
 
-<---> <!-- magic sparator, between columns -->
 ### Standards
 A list of potential standards, which are focused on enabling reliable, frictionless data exchange between devices and machines.
 - APIs
@@ -32,7 +31,6 @@ A list of potential standards, which are focused on enabling reliable, frictionl
 - Conventions - an index of popular definitions
 - User/Robot bridge play/teaching platform access - APIs
 
-<---> <!-- magic sparator, between columns -->
 ### Participation
 Participation is open to representatives of Bridge software providers, NBOs (National Bridge Organisations), RBOs (Regional Bridge Organisations), independent software developers, data, formats and standards experts.
 
