@@ -3,3 +3,5 @@ description: Bridge Standards Working Group
 baseurl: /
 theme: jekyll-theme-slate
 markdown: kramdown
+
+subgroups: ['apis','conventions','data-policy','deals','form-grading','ids','points','results','system-notes','text-format']
