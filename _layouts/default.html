@@ -28,19 +28,12 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <!-- {% for area in site.areas %}  -->
-        {{ area | capitalize }}: <a href="/subgroups/"{{ {{area}} [0] }}></a> 
-          <!-- {% for sg in site.{{ area }} offset:1 %}  -->
-            | <a href=/subgroups/{{ sg }}>{{ sg }}</a>
-          <!-- {% endfor %}  -->
-        <br>
-        <!-- {% endfor %}  -->
-
-        subgroups: ['apis','conventions','data-policy','deals','form-grading','ids','points','results','system-notes','text-format']
-        frameworks: ['apis','text-format']
-        eventdata: ['deals','results']
-        agreementsdata: ['conventions','system-notes']
-        playerdata: ['data-policy','form-grading','ids','points']
+        
+        Frameworks: <a href="/subgroups/apis">APIs</a> | <a href="/subgroups/text-formats">Text Formats</a>
+        Event Data : <a href="/subgroups/deals">Deals</a> | <a href="/subgroups/results">Results</a>
+        Agreements Data: <a href="/subgroups/conventions">Conventions Index</a> | <a href="/subgroups/system-notes">System Notes</a> 
+        Player Data: <a href="/subgroups/data-policy">Data Policy</a> | <a href="/subgroups/form-grading">Global Player Form Grading</a> | 
+        <a href="/subgroups/ids">Global Player IDs</a> <a href="/subgroups/points">Global Player Points</a>
 
         {{ content }}
       </section>
