@@ -28,7 +28,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        {% for sg in site.subgroup in %}
+        {% for sg in site.subgroups in %}
           <a href=/subgroups/{{ sg }}>{{ sg }}</a> |
         {% endfor %}
         {{ content }}
