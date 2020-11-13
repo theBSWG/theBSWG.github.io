@@ -5,3 +5,8 @@ theme: jekyll-theme-slate
 markdown: kramdown
 
 subgroups: ['apis','conventions','data-policy','deals','form-grading','ids','points','results','system-notes','text-format']
+classes: ['frameworks', 'eventdata','agreementsdata','playerdata']
+frameworks: ['apis','text-format']
+eventdata: ['deals','results']
+agreementsdata: ['conventions','system-notes']
+playerdata: ['data-policy','form-grading','ids','points']

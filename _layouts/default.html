@@ -28,9 +28,20 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <!-- {% for sg in site.subgroups in %}  -->
-          <a href=/subgroups/{{ sg }}>{{ sg }}</a> |
+        <!-- {% for class in site.classes %}  -->
+        {{ class | capitalize }}: <a href="/subgroups/"{{ {{class}} [0] }}></a> 
+          <!-- {% for sg in site.{{ class }} offset:1 %}  -->
+            | <a href=/subgroups/{{ sg }}>{{ sg }}</a>
+          <!-- {% endfor %}  -->
+        <br>
         <!-- {% endfor %}  -->
+
+        subgroups: ['apis','conventions','data-policy','deals','form-grading','ids','points','results','system-notes','text-format']
+        frameworks: ['apis','text-format']
+        eventdata: ['deals','results']
+        agreementsdata: ['conventions','system-notes']
+        playerdata: ['data-policy','form-grading','ids','points']
+
         {{ content }}
       </section>
     </div>
