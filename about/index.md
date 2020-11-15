@@ -10,8 +10,7 @@ The Bridge Standards Working Group is a voluntary organization of businesses, no
 
 ## History ##
 ### 2020 ###
-April - Kiat Huang started talking about sets of standards and thinking about how to get an interntional group together to develop them. Ref: [bridge-dev@groups.io post](https://groups.io/g/bridge-dev/topic/getting_all_bridge_data/72930121).
-
+* April - Kiat Huang started talking about sets of standards and thinking about how to get an interntional group together to develop them. Ref: [bridge-dev@groups.io post](https://groups.io/g/bridge-dev/topic/getting_all_bridge_data/72930121)
 * 1st Aug - onwards the BSWG master doc initialised and outline plan made
 * 29th Sep - Christine Denny joins as co-organiser
 * 5th Oct - first set of invites emailed out to NBOs, online platforms, developers, standards experts, enthusiasts
