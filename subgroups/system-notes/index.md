@@ -1,6 +1,6 @@
 ---
 layout: default
-subGroup: Results
+subGroup: System Notes
 title: {{ page.subGroup }}
 ---
 
