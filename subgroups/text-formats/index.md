@@ -1,6 +1,6 @@
 ---
 layout: default
-subGroup: Results
+subGroup: Text Formats
 title: {{ page.subGroup }}
 ---
 
