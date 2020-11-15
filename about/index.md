@@ -1,6 +1,6 @@
 ---
-layout: About
-topic: 
+layout: default
+topic: About
 title: {{ page.topic }}
 ---
 
