@@ -1,41 +1,36 @@
 # Bridge Standards Working Group
 
 #### Status
-Forming. Invitations are being sent out to prospective participants.
+Norming. Members and participants are figuring out structures and working on formats.
 
 ___
 
-
 ### Primary Goal
-To create and maintain an independent, active, non-profit organisation dedicated to ensuring their are technical standards in the world of Bridge, in particular online systems.
+To publish and maintain normative recommendations to benefit bridge players, organisations and businesses, which if adopted by the Bridge industry will become de facto standards. 
 
 ### What are Standards and why are they Important?
-“*Standards form the fundamental building blocks for product development by establishing consistent protocols that can be universally understood and adopted. This helps fuel compatibility and interoperability and simplifies product development, and speeds time-to-market.*”
-
-### How can Standards help grow the business and mindsport of Bridge?
-The growth of digital Bridge software and services, serving a surge of interest, usage and demand from Bridge players, means an increasingly crowded marketplace of systems that, with few exceptions, can not interoperate with each other efficiently, if at all.
+“*Standards form the fundamental building blocks for product development by establishing consistent protocols that can be universally understood and adopted. This helps fuel compatibility and interoperability and simplifies product development, and speeds time-to-market.”[1]
 
 ### References
-- [IEEE](https://standards.ieee.org/develop/index.html) • [IETF](https://tools.ietf.org/html/rfc2026) • [OGC](https://www.ogc.org/roadmap)
-- [What are standards and why they are important](https://beyondstandards.ieee.org/general-news/what-are-standards-why-are-they-important)
+[IETF](https://tools.ietf.org/html/rfc2026) • [ITU-T](https://www.itu.int/en/ITU-T/publications/Pages/default.aspx)  • [IEEE](https://standards.ieee.org/develop/index.html) • [OGC](https://www.ogc.org/roadmap)
+[1] [What are standards and why they are important](https://beyondstandards.ieee.org/general-news/what-are-standards-why-are-they-important)
 
-### Standards
-A list of potential standards, which are focused on enabling reliable, frictionless data exchange between devices and machines.
-- APIs
-- Encodings
-- Deals (unplayed) - data exchange
-- Deals (played) - data exchange
-- Results transmission - data exchange
-- System Notes - data exchange
-- Convention Cards - data exchange
-- Conventions - an index of popular definitions
-- User/Robot bridge play/teaching platform access - APIs
+### Standards subGroups
+Areas of interest as potential standards, which are focused on enabling reliable, frictionless data exchange between devices and machines.
+* APIs
+* Text Formats
+* Deals
+* Results
+* System Notes
+* Conventions Index
+* Global Player IDs
+* Global Player Points
+* Global Player Form Grading
+* Data Policy
+
+### Support Groups
+* Governance (expected to morph into the Steering Group)
+* Secretariat
 
 ### Participation
-Participation is open to representatives of Bridge software providers, NBOs (National Bridge Organisations), RBOs (Regional Bridge Organisations), independent software developers, data, formats and standards experts.
-
-### Steering Group
-To be determined.
-
-### Standard Sub-Groups
-To be determined.
+Participation is open to representatives of Bridge software providers, NBOs (National Bridge Organisations), RBOs (Regional Bridge Organisations), independent software developers, systems architects and experts in data, formats, protocols and standards.
