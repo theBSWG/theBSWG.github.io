@@ -12,4 +12,4 @@ If you want to contact the administrators of the BSWG, then the current list is:
 
 * **Christine Denny** - christine AT bswg.org - "christine" on the BSWG Discord server
 * **Kiat Huang** - kiat AT bswg.org - "kiat" on the BSWG Discord server
-* **all admistrators** - administrators AT bswg.org
+* **All administrators** - administrators AT bswg.org
