@@ -269,7 +269,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 840px;
+  max-width: var(--contentWidth);
   padding: 20px 10px;
   margin: 0 auto;
 }
