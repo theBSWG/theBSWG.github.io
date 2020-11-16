@@ -4,6 +4,8 @@ baseurl: /
 theme: jekyll-theme-slate
 markdown: kramdown
 google_analytics: UA-183218106-1
+github:
+  is_project_page: true
 
 subgroups: ['apis','conventions','data-policy','deals','form-grading','ids','points','results','system-notes','text-format']
 areas: ['frameworks', 'eventdata','agreementsdata','playerdata']
