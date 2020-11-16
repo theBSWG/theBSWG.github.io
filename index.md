@@ -1,7 +1,7 @@
 ---
 layout: default
 topic: Home Page
-title: {{ page.topic }}
+title: Home Page
 ---
 
 
