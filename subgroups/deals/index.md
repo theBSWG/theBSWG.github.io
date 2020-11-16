@@ -1,7 +1,7 @@
 ---
 layout: default
 subGroup: Deals
-title: {{ page.subGroup }}
+title: Deals
 ---
 
 # {{ page.subGroup }}

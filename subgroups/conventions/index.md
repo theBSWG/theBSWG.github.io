@@ -1,7 +1,7 @@
 ---
 layout: default
 subGroup: Conventions Index
-title: {{ page.subGroup }}
+title: Conventions Index
 ---
 
 # {{ page.subGroup }}

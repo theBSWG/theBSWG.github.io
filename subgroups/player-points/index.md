@@ -1,7 +1,7 @@
 ---
 layout: default
 subGroup: Global Player Points
-title: {{ page.subGroup }}
+title: Global Player Points
 ---
 
 # {{ page.subGroup }}

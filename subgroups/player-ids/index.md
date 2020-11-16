@@ -1,7 +1,7 @@
 ---
 layout: default
-subGroup: Global Player Ids
-title: {{ page.subGroup }}
+subGroup: Global Player IDs
+title: Global Player IDs
 ---
 
 # {{ page.subGroup }}

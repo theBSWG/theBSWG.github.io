@@ -1,7 +1,8 @@
 ---
 layout: default
 subGroup: Results
-title: {{ page.subGroup }}
+title: subGroup: Results
+
 ---
 
 # {{ page.subGroup }}

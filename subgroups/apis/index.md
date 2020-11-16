@@ -1,7 +1,7 @@
 ---
 layout: default
 subGroup: APIs
-title: {{ page.subGroup }}
+title: APIs
 ---
 
 # {{ page.subGroup }}

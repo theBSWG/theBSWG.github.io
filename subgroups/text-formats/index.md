@@ -1,7 +1,7 @@
 ---
 layout: default
 subGroup: Text Formats
-title: {{ page.subGroup }}
+title: Text Formats
 ---
 
 # {{ page.subGroup }}

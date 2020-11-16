@@ -1,7 +1,8 @@
 ---
 layout: default
 subGroup: Data Policy
-title: {{ page.subGroup }}
+title: Data Policy
 ---
 
 # {{ page.subGroup }}
+[content to be added]

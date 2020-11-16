@@ -1,7 +1,7 @@
 ---
 layout: default
 subGroup: System Notes
-title: {{ page.subGroup }}
+title: System Notes
 ---
 
 # {{ page.subGroup }}

@@ -1,7 +1,7 @@
 ---
 layout: default
 subGroup: Global Player Form Grading
-title: {{ page.subGroup }}
+title: Global Player Form Grading
 ---
 
 # {{ page.subGroup }}
