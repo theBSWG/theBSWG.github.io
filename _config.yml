@@ -1,7 +1,7 @@
 title: BSWG
 description: Bridge Standards Working Group
 baseurl: /
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 markdown: kramdown
 google_analytics: G-5CDYQRW253
 
