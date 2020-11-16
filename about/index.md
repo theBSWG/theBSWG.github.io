@@ -14,10 +14,10 @@ The Bridge Standards Working Group is a voluntary organization of businesses, no
 * 1st Aug - onwards the BSWG master doc initialised and outline plan made
 * 29th Sep - Christine Denny joins BSWG as co-organiser
 * 5th Oct - first set of invites emailed out to NBOs, online platforms, developers, standards experts, enthusiasts
-* 7th Oct - [Invite to members of Bridge Winners](http://bridgewinners.com/article/view/bridge-standards-working-group)
+* 7th Oct - [Invite to members of Bridge Winners](https://bridgewinners.com/article/view/bridge-standards-working-group)
 * 14th Oct - [invite to members of bridge-dev@groups.io](https://groups.io/g/bridge-dev/topic/invitation_to_join_the_bridge/77491700)
 * 2nd Nov - Membership reaches 70+
 * 3rd Nov - twin kickoff meetings in the EU-APAC and US-EU timezones - both well attended
 * 4th Nov Discord server and channels (forums), Google Groups (announce lists) spun up and active
-* 12th Nov - ["Bridge Standards Working Group Launched!"](http://bridgewinners.com/article/view/bridge-standards-working-group-launched-2-9tmvoznv1t/) announcement to Bridge Winners
+* 12th Nov - ["Bridge Standards Working Group Launched!"](https://bridgewinners.com/article/view/bridge-standards-working-group-launched-2-9tmvoznv1t/) announcement to Bridge Winners
 
