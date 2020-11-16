@@ -3,7 +3,7 @@ description: Bridge Standards Working Group
 baseurl: /
 theme: jekyll-theme-slate
 markdown: kramdown
-google_analytics: G-5CDYQRW253
+google_analytics: UA-183218106-1
 
 subgroups: ['apis','conventions','data-policy','deals','form-grading','ids','points','results','system-notes','text-format']
 areas: ['frameworks', 'eventdata','agreementsdata','playerdata']
