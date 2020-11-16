@@ -12,8 +12,8 @@ To publish and maintain normative recommendations to benefit bridge players, org
 “*Standards form the fundamental building blocks for product development by establishing consistent protocols that can be universally understood and adopted. This helps fuel compatibility and interoperability and simplifies product development, and speeds time-to-market.”[1]
 
 ### References
-[IETF](https://tools.ietf.org/html/rfc2026) • [ITU-T](https://www.itu.int/en/ITU-T/publications/Pages/default.aspx)  • [IEEE](https://standards.ieee.org/develop/index.html) • [OGC](https://www.ogc.org/roadmap)
-[1] [What are standards and why they are important](https://beyondstandards.ieee.org/general-news/what-are-standards-why-are-they-important)
+* [IETF](https://tools.ietf.org/html/rfc2026) • [ITU-T](https://www.itu.int/en/ITU-T/publications/Pages/default.aspx)  • [IEEE](https://standards.ieee.org/develop/index.html) • [OGC](https://www.ogc.org/roadmap)
+* [1] [What are standards and why they are important](https://beyondstandards.ieee.org/general-news/what-are-standards-why-are-they-important)
 
 ### Standards subGroups
 Areas of interest as potential standards, which are focused on enabling reliable, frictionless data exchange between devices and machines.
